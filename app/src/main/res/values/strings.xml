@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="welcome_message">Your Android project is ready.</string>
+</resources>
